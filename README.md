@@ -26,7 +26,7 @@ This project is built using Python and employs Object-Oriented Programming (OOP)
 
 ## Installation
 
-To run this game locally, you need to have Python installed on your machine or I'll provide you with a executable file (.exe) by with you can enjoy the game directly.
+To run this game locally, you need to have Python installed on your machine.
 
 Follow the steps below to set up the game:
 
